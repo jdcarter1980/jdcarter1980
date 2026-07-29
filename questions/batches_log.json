@@ -1,5 +1,6 @@
 {
   "generated_batches": [
+    {"cert":"NASM","count":5,"file":"questions/NASM.json","date":"2026-07-29"},
     {"cert":"NASM","count":5,"file":"questions/NASM.json","date":"2026-07-29"}
   ]
 }
