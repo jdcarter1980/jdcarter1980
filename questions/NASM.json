@@ -1,0 +1,77 @@
+[
+  {
+    "id": "nasm-001",
+    "certs": ["NASM"],
+    "topics": ["Anatomy"],
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "During a standing hip-hinge movement (e.g., Romanian deadlift), which muscle group provides the primary eccentric control as the torso lowers?",
+    "options": [
+      {"id": 1, "text": "Quadriceps", "isCorrect": false},
+      {"id": 2, "text": "Hamstrings", "isCorrect": true},
+      {"id": 3, "text": "Erector spinae", "isCorrect": false},
+      {"id": 4, "text": "Gluteus medius", "isCorrect": false}
+    ],
+    "explanation": "The hamstrings eccentrically control hip flexion during the lowering phase of a hip-hinge, helping moderate pelvis and hip motion."
+  },
+  {
+    "id": "nasm-002",
+    "certs": ["NASM"],
+    "topics": ["Program Design"],
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "stem": "A client seeking hypertrophy has been training consistently but reports stalled progress. Which change is the most evidence-based next step to induce further muscle growth?",
+    "options": [
+      {"id": 1, "text": "Increase training volume (sets per muscle group) while maintaining moderate intensity", "isCorrect": true},
+      {"id": 2, "text": "Reduce protein intake and increase cardio", "isCorrect": false},
+      {"id": 3, "text": "Switch exclusively to very low-rep maximal strength work (1–3 reps)", "isCorrect": false},
+      {"id": 4, "text": "Eliminate progressive overload and focus on technique only", "isCorrect": false}
+    ],
+    "explanation": "Increasing weekly training volume with appropriate recovery and continued progressive overload is a common strategy to overcome hypertrophy plateaus."
+  },
+  {
+    "id": "nasm-003",
+    "certs": ["NASM"],
+    "topics": ["Assessment"],
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "Which of the following screening questions is most important to ask before beginning an exercise program to identify potential cardiovascular risk?",
+    "options": [
+      {"id": 1, "text": "Do you have any diagnosed heart conditions or chest pain during activity?", "isCorrect": true},
+      {"id": 2, "text": "How many hours of sleep do you get per night?", "isCorrect": false},
+      {"id": 3, "text": "Do you prefer morning or evening workouts?", "isCorrect": false},
+      {"id": 4, "text": "What is your favorite type of exercise?", "isCorrect": false}
+    ],
+    "explanation": "Asking about diagnosed heart conditions or exertional chest pain helps identify cardiovascular risk and whether medical clearance is needed."
+  },
+  {
+    "id": "nasm-004",
+    "certs": ["NASM"],
+    "topics": ["Exercise Technique"],
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "stem": "When coaching a client through a push-up to improve scapular stability, which cue is most appropriate?",
+    "options": [
+      {"id": 1, "text": "Drive your shoulders toward your ears at the bottom", "isCorrect": false},
+      {"id": 2, "text": "Protract the shoulder blades and lock out at the top", "isCorrect": false},
+      {"id": 3, "text": "Maintain a rigid plank, squeeze the shoulder blades together slightly at the top", "isCorrect": true},
+      {"id": 4, "text": "Let the hips sag to increase range of motion", "isCorrect": false}
+    ],
+    "explanation": "Maintaining a rigid torso and cueing scapular retraction (slight squeeze) at the top promotes scapular stability and proper shoulder mechanics."
+  },
+  {
+    "id": "nasm-005",
+    "certs": ["NASM"],
+    "topics": ["Professionalism"],
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "stem": "A client reveals they were recently diagnosed with a medical condition not previously disclosed. The trainer should first:",
+    "options": [
+      {"id": 1, "text": "Immediately modify the program without further questions", "isCorrect": false},
+      {"id": 2, "text": "Inform them that you will continue as before since exercise is always beneficial", "isCorrect": false},
+      {"id": 3, "text": "Recommend they stop exercise entirely and seek medical treatment", "isCorrect": false},
+      {"id": 4, "text": "Ask clarifying questions and recommend medical clearance or collaborate with their healthcare provider as needed", "isCorrect": true}
+    ],
+    "explanation": "Trainers should gather information, avoid making medical diagnoses, and obtain medical clearance or collaborate with healthcare providers when a new medical condition is disclosed."
+  }
+]
